@@ -21,7 +21,7 @@ Sebelum mulai, pastikan memiliki hal berikut terpasang:
 Clone proyek ini menggunakan Git:
 
 ```bash
-git clone https://github.com/username/laravel-docker-template.git
+git clone https://github.com/AryaPrayogi16/arya-laravel11-docker-template.git
 cd laravel-docker-template
 
 ### 2. Menjalankan Aplikasi dengan Docker
